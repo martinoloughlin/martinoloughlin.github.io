@@ -4,7 +4,8 @@ plugins:
 
 title: Martin O'Loughlin
 description: [A short description of your site's purpose]
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
 
-#<a rel="me" href="https://mastodon.social/@Mrmo">Mastodon</a>
-
-#<a rel="me" href="https://www.linkedin.com/in/martin-o-loughlin-a6416813/">Linkedin</a>
+theme: jekyll-theme-minimal
